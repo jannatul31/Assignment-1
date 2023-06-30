@@ -1,0 +1,169 @@
+.intro{
+    text-align: center;
+    margin: 3% 12%;
+
+}
+.intro p{
+    color: aliceblue;
+     
+}
+.sec-1-h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size:  50px;
+   
+} 
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(247, 94, 77);
+    padding: 12px 28px;
+    border-radius: 5px;
+    margin-top: 4%;
+} 
+.section-1{
+    background-image: url(donation13.jpg);
+    background-size: cover;
+    height: 600px;
+    padding-top: 80px;
+
+    
+}
+.sec2-div1{
+    /* display: flex; */
+    /* flex-direction: column; */
+    text-align: center;
+}
+.donate-button{
+background-color: #FF5959;
+text-decoration: none;
+margin-top: 30px;
+padding: 10px 15px;
+color: white;
+border: 0;
+border-radius: 10px;
+}
+input[type=text]{
+    margin-top: 30px;
+    width: 50%;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    text-align: center;
+}
+.sec2-div2{
+    display: flex;
+    margin-left: 21%;
+    color: rgba(0, 0, 0, 0.808);
+    font-size: 25px;
+}
+.box1{
+    padding: 4% ;   
+    height: 40px;
+    width: 43px;
+    background-color: rgba(245, 245, 220, 0.363);
+    margin-right: 2%;
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.box2{
+    
+    background-color: rgba(221, 160, 221, 0.507);
+    border: solid 3px salmon;
+    color: salmon;
+}
+    
+.section-2{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.tk1{ 
+    color: rgba(0, 0, 0, 0.575);
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.575);
+}
+.sec3-div1{
+    text-align: center;
+    margin-bottom: 5%;
+}  
+.sec3-div2{
+    display: flex;
+    margin: 0 90px;
+}
+.food{
+    height: 300px;
+    width : 480px;
+    background-color: rgba(127, 255, 212, 0.411);
+    margin-left: 2% ;
+    padding: 1%;
+}
+.shelter{
+    height: 300px;
+    width : 480px;
+    background-color: rgba(221, 160, 221, 0.418);
+    margin-left: 2% ;
+    padding: 1%;
+}
+.education{
+    height: 300px;
+    width : 480px;
+    background-color: rgba(250, 128, 114, 0.473);
+    margin-left: 2% ;
+    padding: 1% ; 
+}
+.section-3{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.sec4-div1{
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    
+}
+.updates{
+    font-size: 40px ;
+}
+.sec4-div2{
+    padding: 80px;
+    background-color: #FFF4D6;
+    margin: 0 20%;
+    display: flex;
+    justify-content: center;
+} 
+input[type=email]{
+    font-size: 1.2em;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 5px;
+} 
+.subscribe{
+    background-color: rgb(243, 63, 63);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 15px;
+    
+}
+.email{
+    height: 38px ;
+    width: 45%;
+    background-color: rgba(137, 43, 226, 0.377);
+}
+
+footer{
+    margin-top: 150px ;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.humble{
+color: rgb(243, 76, 76);
+font-family: 'Dancing Script', cursive;
+font-size: 30px;
+}
+
